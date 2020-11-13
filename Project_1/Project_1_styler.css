@@ -1,0 +1,52 @@
+body {
+	font-family: 1px Helvetica serif;
+	background-image: url("https://akm-img-a-in.tosshub.com/indiatoday/images/bodyeditor/201810/bengal_partition1-x402.jpg?xVNbtkIMasfpJvWcg6uCR0az4wD34kvW");
+	background-position: center;	
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: purple;
+	height: 100%;
+	width: 100%;
+	background-color: white;
+	padding: 2rem 4rem;
+	max-width: 35rem;
+	margin: 4rem auto;
+	background-color: #fff;
+	box-shadow: 0 0 8px 4.5px rgba(0,0,0,0.05);
+	border-radius: 0.25px;
+}
+body h1{
+	text-align: center;
+	font-weight: bold;
+	font-size: 45px;
+	font-family: "Calibri", serif;
+	font-style: italic;
+	padding: 14px 25px;
+  	color: white;
+  	text-shadow: 2px 2px 4px #000000;
+}
+a:link{
+  background-color: rgba(255,0,0,0.8);
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  font-weight: bold;
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+}
+ul{
+	font-style: italic;
+	font-weight: bold;
+}
+a:hover{
+	transition: width 2s, height 4s;
+	opacity: 1;
+	background-color: blue;
+}
+.list{
+	background-color: rgba(255,255,255,0.4);
+}

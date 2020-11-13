@@ -1,0 +1,25 @@
+:root{
+	filter: invert(1) hue-rotate(180deg);
+}
+img{
+	-webkit-filter: 1;
+	filter: invert(1);
+}
+html {
+  --text-color-normal: #0a244d;
+  --text-color-light: #8cabd9;
+}
+body h1{
+	font-family: 5px "Garamond",serif;
+	padding: 1.52rem;
+	line-height: 1.52;
+}
+body{
+	padding: 1.52rem 3.04rem;
+	max-width: 50rem;
+	margin: 3.04rem auto;
+	background-color: #fff;
+	box-shadow: 0 0 10px 5px rgba(0,0,0,0.05);
+	border-radius: 0.25px;
+	color: var(--em-font-color);
+}
